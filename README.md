@@ -18,7 +18,7 @@ information about images through natural language interactions. This documentati
 
 - **Frontend**: React.js
 - **Backend**: Node.js, Express
-- **Database**: MongoDB (if applicable)
+- **Database**: MongoDB
 - **Other Tools**: Redux for state management, Axios for API calls
 
 ### Installation Instructions
