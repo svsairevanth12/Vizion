@@ -120,14 +120,4 @@ Thank you for using Vizion! We hope this documentation helps you effectively nav
 
 ---
 
-This structured documentation now includes license details and contact information, making it comprehensive and user-friendly. Adjust specific sections as needed based on detailed insights from your code and application functionalities.
 
-Citations:
-[1] https://td.byui.edu/TDClient/79/ITHelpCenter/KB/ArticleDet?ID=8649
-[2] https://www.microsoft.com/en-in/microsoft-365/visio/microsoft-visio-volume-licensing-visio-for-multiple-users
-[3] https://www.youtube.com/watch?v=ojChFQEl6mY
-[4] https://www.microsoft.com/en-us/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options
-[5] https://www.vizrt.com/products/tricaster/vizion/
-[6] https://onevizion.com/vizion-packages/
-[7] https://onevizion.com/platform/
-[8] https://codecanyon.net/item/vizion-ai-the-ultimate-aipowered-content-image-and-code-creation-tool-with-flutter-admin-panel/51007759
