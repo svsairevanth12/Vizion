@@ -1,5 +1,3 @@
-Here’s the updated documentation for the Vizion project, including license details and contact information from the deployed site.
-
 ## Documentation for the Vizion Project
 
 ### Project Overview
