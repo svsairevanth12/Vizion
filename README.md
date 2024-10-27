@@ -3,7 +3,8 @@
 ### Project Overview
 
 - **Project Name**: Vizion
-- **Description**: Vizion is a web application designed to provide users with [insert specific purpose or functionality of the application, e.g., real-time data visualization, project management, etc.]. This documentation serves as a comprehensive guide for users to understand, install, and utilize the application effectively.
+- **Description**: Vizion is a web application designed to provide users with chatbot that combines image recognition with conversational AI, enabling users to receive
+information about images through natural language interactions. This documentation serves as a comprehensive guide for users to understand, install, and utilize the application effectively.
 
 ### Features
 
